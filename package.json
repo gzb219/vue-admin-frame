@@ -23,7 +23,7 @@
     "echarts": "^4.2.1",
     "element-ui": "2.10.1",
     "file-saver": "^2.0.2",
-    "highlight.js": "^9.15.8",
+    "highlight.js": "^10.4.1",
     "js-cookie": "^2.2.0",
     "mockjs": "^1.0.1-beta3",
     "normalize.css": "^8.0.1",
